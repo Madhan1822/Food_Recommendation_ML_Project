@@ -15,6 +15,10 @@ from ai_assistant import (
     get_ai_response
 )
 
+from order_manager import (
+    add_order
+)
+
 from styles import load_css
 
 # =====================================
@@ -53,7 +57,14 @@ st.markdown(
 # LOAD DATA
 # =====================================
 
-df = pd.read_csv("data/orders.csv")
+@st.cache_data(ttl=5)
+def load_data():
+
+    return pd.read_csv(
+        "data/orders.csv"
+    )
+
+df = load_data()
 
 # =====================================
 # SIDEBAR
@@ -69,6 +80,7 @@ page = st.sidebar.radio(
         "Demand Prediction",
         "Wait Time Prediction",
         "AI Assistant",
+        "Place Order",
         "Analytics"
     ]
 )
@@ -173,40 +185,59 @@ if page == "Dashboard":
 
     st.divider()
 
-    st.subheader(
-        "🔍 Search Food"
-    )
-
-    food_search = st.text_input(
-        "Enter food name"
-    )
-
-    if food_search:
-
-        filtered = df[
-            df["food_item"]
-            .str.contains(
-                food_search,
-                case=False
+    st.metric(
+        "Total Orders",
+        len(
+            pd.read_csv(
+                "data/orders.csv"
             )
-        ]
+        )
+    )
 
-        st.dataframe(
-            filtered,
-            use_container_width=True
+    st.subheader(
+        "📦 Live Orders Feed"
+    )
+
+    st.dataframe(
+        df.tail(10),
+        use_container_width=True
+    )
+
+    st.subheader(
+        "🏆 Trending Foods"
+    )
+
+    trending = (
+        df["food_item"]
+        .value_counts()
+        .head(5)
+    )
+
+    for i, (food, count) in enumerate(
+        trending.items(),
+        start=1
+    ):
+
+        st.write(
+            f"{i}. {food} ({count} orders)"
         )
 
-    else:
+    st.subheader(
+        "👤 Top Customers"
+    )
 
-        st.subheader(
-            "Recent Orders"
+    top_users = (
+        df["user_id"]
+        .value_counts()
+        .head(5)
+    )
+
+    for user, orders in top_users.items():
+
+        st.write(
+            f"User {user}: {orders} orders"
         )
-
-        st.dataframe(
-            df.tail(20),
-            use_container_width=True
-        )
-
+        
 # =====================================
 # RECOMMENDATIONS
 # =====================================
@@ -620,3 +651,76 @@ elif page == "AI Assistant":
         st.success(
             answer
         )
+
+elif page == "Place Order":
+    
+    st.title(
+        "🛒 Place New Order"
+    )
+
+    user_id = st.selectbox(
+        "User",
+        sorted(
+            df["user_id"]
+            .unique()
+        )
+    )
+
+    food_item = st.selectbox(
+        "Food Item",
+        sorted(
+            df["food_item"]
+            .unique()
+        )
+    )
+
+    price = st.number_input(
+        "Price",
+        min_value=1
+    )
+
+    rating = st.slider(
+        "Rating",
+        1,
+        5,
+        4
+    )
+
+    time_slot = st.selectbox(
+        "Time Slot",
+        [
+            "Morning",
+            "Lunch",
+            "Evening"
+        ]
+    )
+
+    day_of_week = st.selectbox(
+        "Day",
+        [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ]
+    )
+
+    if st.button(
+        "Place Order"
+    ):
+
+        add_order(
+            user_id,
+            food_item,
+            price,
+            rating,
+            time_slot,
+            day_of_week
+        )
+
+        st.success(
+            "Order Placed Successfully!"
+        )
+
+        st.balloons()

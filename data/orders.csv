@@ -1,501 +1,503 @@
 order_id,user_id,food_item,time_slot,day_of_week,price,rating
-1,149,Dosa,Morning,Tuesday,40,5
-2,148,Burger,Evening,Friday,80,4
-3,103,Pizza,Morning,Monday,120,5
-4,142,Coffee,Evening,Monday,20,5
-5,149,Coffee,Evening,Wednesday,20,4
-6,142,Burger,Morning,Monday,80,4
-7,139,Burger,Morning,Thursday,80,5
-8,127,Sandwich,Evening,Wednesday,50,4
-9,108,Pizza,Lunch,Thursday,120,3
-10,138,Meals,Evening,Friday,100,5
-11,143,Meals,Evening,Tuesday,100,4
-12,147,Noodles,Evening,Monday,90,4
-13,145,Idli,Evening,Thursday,30,5
-14,134,Sandwich,Evening,Wednesday,50,3
-15,112,Idli,Morning,Tuesday,30,4
-16,138,Idli,Evening,Wednesday,30,5
-17,116,Dosa,Lunch,Wednesday,40,3
-18,147,Noodles,Morning,Friday,90,5
-19,122,Pizza,Lunch,Friday,120,3
-20,122,Fried Rice,Evening,Friday,120,4
-21,132,Idli,Morning,Thursday,30,5
-22,140,Meals,Morning,Thursday,100,5
-23,103,Pizza,Evening,Wednesday,120,5
-24,116,Coffee,Lunch,Wednesday,20,5
-25,137,Fried Rice,Morning,Tuesday,120,3
-26,143,Burger,Lunch,Monday,80,4
-27,131,Burger,Morning,Friday,80,5
-28,123,Dosa,Morning,Monday,40,3
-29,109,Coffee,Morning,Wednesday,20,4
-30,141,Idli,Lunch,Monday,30,3
-31,102,Dosa,Lunch,Tuesday,40,3
-32,147,Noodles,Morning,Thursday,90,3
-33,138,Coffee,Lunch,Monday,20,4
-34,137,Sandwich,Evening,Friday,50,4
-35,117,Tea,Evening,Friday,15,3
-36,120,Noodles,Lunch,Monday,90,3
-37,147,Meals,Lunch,Thursday,100,5
-38,133,Fried Rice,Morning,Wednesday,120,5
-39,101,Idli,Lunch,Thursday,30,4
-40,127,Sandwich,Morning,Friday,50,4
-41,111,Burger,Evening,Monday,80,3
-42,150,Dosa,Morning,Thursday,40,5
-43,127,Tea,Evening,Thursday,15,3
-44,111,Pizza,Lunch,Thursday,120,4
-45,111,Sandwich,Evening,Monday,50,5
-46,136,Noodles,Morning,Monday,90,5
-47,112,Sandwich,Morning,Thursday,50,3
-48,130,Pizza,Lunch,Friday,120,4
-49,103,Burger,Morning,Monday,80,3
-50,117,Coffee,Lunch,Monday,20,4
-51,144,Idli,Lunch,Wednesday,30,5
-52,148,Meals,Morning,Tuesday,100,3
-53,133,Pizza,Evening,Tuesday,120,3
-54,116,Tea,Evening,Tuesday,15,5
-55,113,Fried Rice,Evening,Thursday,120,4
-56,109,Idli,Evening,Monday,30,5
-57,148,Tea,Lunch,Thursday,15,3
-58,146,Fried Rice,Morning,Wednesday,120,5
-59,137,Dosa,Evening,Monday,40,4
-60,132,Noodles,Morning,Friday,90,5
-61,137,Noodles,Lunch,Thursday,90,5
-62,142,Meals,Morning,Thursday,100,3
-63,144,Sandwich,Evening,Friday,50,3
-64,124,Burger,Lunch,Thursday,80,3
-65,135,Fried Rice,Morning,Tuesday,120,4
-66,124,Idli,Morning,Tuesday,30,5
-67,143,Sandwich,Lunch,Friday,50,4
-68,139,Meals,Evening,Tuesday,100,5
-69,139,Noodles,Morning,Wednesday,90,3
-70,114,Noodles,Evening,Friday,90,3
-71,127,Pizza,Morning,Thursday,120,3
-72,143,Coffee,Morning,Thursday,20,4
-73,120,Dosa,Evening,Thursday,40,4
-74,110,Noodles,Morning,Thursday,90,4
-75,140,Pizza,Morning,Friday,120,4
-76,121,Meals,Evening,Friday,100,3
-77,117,Dosa,Evening,Monday,40,5
-78,133,Burger,Morning,Tuesday,80,5
-79,144,Dosa,Morning,Monday,40,3
-80,126,Idli,Lunch,Friday,30,3
-81,101,Meals,Evening,Friday,100,4
-82,133,Coffee,Morning,Friday,20,5
-83,105,Burger,Morning,Tuesday,80,4
-84,109,Coffee,Evening,Thursday,20,3
-85,150,Fried Rice,Morning,Thursday,120,5
-86,150,Burger,Evening,Monday,80,4
-87,130,Dosa,Evening,Thursday,40,3
-88,118,Dosa,Lunch,Thursday,40,3
-89,129,Burger,Lunch,Tuesday,80,4
-90,131,Dosa,Evening,Monday,40,4
-91,140,Tea,Evening,Monday,15,5
-92,106,Fried Rice,Lunch,Monday,120,5
-93,146,Pizza,Morning,Wednesday,120,3
-94,135,Fried Rice,Evening,Friday,120,3
-95,129,Fried Rice,Lunch,Wednesday,120,3
-96,118,Meals,Morning,Wednesday,100,4
-97,129,Noodles,Evening,Friday,90,3
-98,149,Coffee,Lunch,Tuesday,20,3
-99,129,Sandwich,Evening,Friday,50,4
-100,124,Meals,Evening,Monday,100,4
-101,123,Burger,Morning,Wednesday,80,4
-102,114,Noodles,Evening,Tuesday,90,4
-103,134,Noodles,Morning,Friday,90,4
-104,125,Noodles,Evening,Friday,90,5
-105,102,Coffee,Morning,Friday,20,4
-106,125,Fried Rice,Evening,Monday,120,5
-107,118,Sandwich,Lunch,Thursday,50,5
-108,113,Idli,Lunch,Tuesday,30,5
-109,149,Tea,Evening,Tuesday,15,4
-110,150,Tea,Lunch,Wednesday,15,5
-111,103,Pizza,Lunch,Thursday,120,3
-112,137,Idli,Morning,Friday,30,3
-113,148,Dosa,Lunch,Tuesday,40,3
-114,132,Sandwich,Morning,Tuesday,50,5
-115,103,Sandwich,Evening,Monday,50,5
-116,116,Coffee,Evening,Tuesday,20,4
-117,133,Pizza,Lunch,Monday,120,5
-118,143,Coffee,Lunch,Tuesday,20,3
-119,139,Tea,Evening,Thursday,15,4
-120,137,Idli,Evening,Tuesday,30,5
-121,115,Burger,Evening,Tuesday,80,5
-122,121,Burger,Evening,Tuesday,80,4
-123,142,Pizza,Evening,Friday,120,3
-124,148,Tea,Lunch,Thursday,15,5
-125,128,Idli,Lunch,Tuesday,30,3
-126,143,Sandwich,Morning,Friday,50,3
-127,125,Tea,Morning,Monday,15,5
-128,112,Sandwich,Lunch,Monday,50,3
-129,138,Idli,Morning,Monday,30,4
-130,101,Dosa,Evening,Friday,40,3
-131,125,Dosa,Evening,Friday,40,5
-132,133,Coffee,Lunch,Monday,20,5
-133,134,Sandwich,Morning,Wednesday,50,4
-134,114,Tea,Lunch,Monday,15,4
-135,131,Fried Rice,Lunch,Wednesday,120,3
-136,149,Coffee,Evening,Monday,20,4
-137,140,Noodles,Evening,Monday,90,5
-138,119,Pizza,Lunch,Thursday,120,4
-139,140,Tea,Morning,Wednesday,15,4
-140,138,Noodles,Evening,Tuesday,90,3
-141,123,Idli,Lunch,Friday,30,3
-142,143,Fried Rice,Evening,Wednesday,120,5
-143,141,Burger,Lunch,Wednesday,80,4
-144,116,Fried Rice,Morning,Wednesday,120,4
-145,133,Meals,Evening,Wednesday,100,5
-146,118,Sandwich,Morning,Monday,50,5
-147,146,Fried Rice,Evening,Monday,120,3
-148,139,Meals,Evening,Wednesday,100,4
-149,106,Noodles,Morning,Friday,90,3
-150,118,Dosa,Evening,Friday,40,5
-151,117,Tea,Evening,Thursday,15,5
-152,124,Burger,Morning,Tuesday,80,3
-153,144,Sandwich,Lunch,Thursday,50,5
-154,121,Coffee,Lunch,Wednesday,20,4
-155,103,Tea,Morning,Monday,15,3
-156,117,Meals,Morning,Tuesday,100,3
-157,143,Coffee,Morning,Tuesday,20,5
-158,106,Noodles,Morning,Thursday,90,3
-159,102,Noodles,Lunch,Wednesday,90,5
-160,120,Idli,Morning,Tuesday,30,3
-161,145,Meals,Morning,Thursday,100,4
-162,146,Idli,Morning,Thursday,30,4
-163,130,Noodles,Morning,Wednesday,90,5
-164,101,Fried Rice,Morning,Tuesday,120,5
-165,113,Sandwich,Evening,Thursday,50,3
-166,106,Meals,Morning,Tuesday,100,3
-167,102,Coffee,Evening,Friday,20,4
-168,102,Idli,Lunch,Monday,30,3
-169,105,Coffee,Morning,Thursday,20,5
-170,102,Pizza,Morning,Wednesday,120,5
-171,126,Burger,Lunch,Monday,80,3
-172,121,Noodles,Lunch,Friday,90,4
-173,103,Noodles,Morning,Thursday,90,3
-174,144,Meals,Evening,Wednesday,100,4
-175,125,Fried Rice,Lunch,Friday,120,3
-176,132,Sandwich,Morning,Monday,50,5
-177,109,Sandwich,Morning,Friday,50,3
-178,122,Noodles,Evening,Wednesday,90,3
-179,116,Dosa,Lunch,Thursday,40,3
-180,107,Idli,Morning,Friday,30,5
-181,126,Idli,Lunch,Wednesday,30,5
-182,119,Sandwich,Lunch,Monday,50,3
-183,113,Pizza,Evening,Wednesday,120,5
-184,135,Fried Rice,Lunch,Wednesday,120,5
-185,105,Noodles,Morning,Monday,90,4
-186,127,Fried Rice,Morning,Monday,120,5
-187,136,Noodles,Lunch,Tuesday,90,5
-188,104,Tea,Evening,Wednesday,15,3
-189,112,Meals,Evening,Monday,100,5
-190,118,Dosa,Lunch,Wednesday,40,3
-191,146,Sandwich,Lunch,Wednesday,50,3
-192,124,Pizza,Lunch,Monday,120,5
-193,106,Idli,Morning,Monday,30,5
-194,125,Dosa,Morning,Wednesday,40,5
-195,113,Meals,Evening,Wednesday,100,3
-196,131,Fried Rice,Evening,Wednesday,120,4
-197,150,Idli,Lunch,Friday,30,4
-198,108,Pizza,Lunch,Thursday,120,5
-199,118,Sandwich,Morning,Tuesday,50,5
-200,133,Tea,Lunch,Monday,15,4
-201,127,Burger,Morning,Thursday,80,3
-202,131,Idli,Lunch,Tuesday,30,3
-203,124,Sandwich,Lunch,Friday,50,5
-204,116,Pizza,Lunch,Friday,120,4
-205,102,Pizza,Evening,Tuesday,120,5
-206,113,Fried Rice,Lunch,Monday,120,5
-207,117,Fried Rice,Lunch,Friday,120,5
-208,133,Idli,Evening,Wednesday,30,4
-209,115,Burger,Lunch,Tuesday,80,4
-210,125,Dosa,Evening,Thursday,40,5
-211,114,Sandwich,Evening,Wednesday,50,3
-212,139,Pizza,Lunch,Tuesday,120,5
-213,121,Pizza,Lunch,Tuesday,120,3
-214,105,Fried Rice,Evening,Thursday,120,3
-215,127,Noodles,Evening,Wednesday,90,3
-216,115,Tea,Lunch,Tuesday,15,4
-217,150,Coffee,Lunch,Tuesday,20,4
-218,112,Sandwich,Lunch,Monday,50,5
-219,128,Dosa,Lunch,Thursday,40,3
-220,128,Tea,Evening,Thursday,15,5
-221,116,Meals,Morning,Wednesday,100,5
-222,136,Pizza,Morning,Friday,120,3
-223,141,Idli,Evening,Tuesday,30,5
-224,103,Idli,Lunch,Wednesday,30,3
-225,127,Burger,Morning,Wednesday,80,4
-226,108,Coffee,Evening,Monday,20,5
-227,135,Burger,Lunch,Tuesday,80,3
-228,112,Tea,Lunch,Thursday,15,4
-229,109,Fried Rice,Evening,Monday,120,3
-230,127,Meals,Lunch,Monday,100,3
-231,118,Idli,Lunch,Friday,30,3
-232,138,Fried Rice,Lunch,Thursday,120,4
-233,105,Sandwich,Lunch,Wednesday,50,5
-234,147,Burger,Morning,Thursday,80,5
-235,148,Idli,Lunch,Thursday,30,3
-236,150,Dosa,Morning,Wednesday,40,3
-237,101,Tea,Morning,Friday,15,4
-238,132,Fried Rice,Evening,Friday,120,5
-239,129,Dosa,Morning,Wednesday,40,4
-240,145,Idli,Lunch,Tuesday,30,4
-241,144,Sandwich,Evening,Friday,50,5
-242,118,Burger,Lunch,Wednesday,80,5
-243,110,Coffee,Morning,Tuesday,20,3
-244,132,Dosa,Morning,Tuesday,40,4
-245,136,Burger,Evening,Tuesday,80,5
-246,129,Idli,Evening,Thursday,30,5
-247,118,Tea,Morning,Thursday,15,4
-248,115,Idli,Morning,Monday,30,3
-249,118,Noodles,Lunch,Thursday,90,4
-250,131,Burger,Evening,Tuesday,80,5
-251,113,Burger,Lunch,Thursday,80,4
-252,121,Noodles,Lunch,Thursday,90,3
-253,122,Coffee,Morning,Tuesday,20,4
-254,145,Fried Rice,Morning,Wednesday,120,4
-255,125,Dosa,Morning,Thursday,40,5
-256,108,Fried Rice,Evening,Monday,120,5
-257,106,Noodles,Lunch,Monday,90,4
-258,135,Sandwich,Morning,Monday,50,4
-259,126,Meals,Morning,Thursday,100,5
-260,141,Pizza,Morning,Wednesday,120,5
-261,109,Pizza,Lunch,Friday,120,5
-262,125,Fried Rice,Lunch,Monday,120,4
-263,121,Tea,Morning,Monday,15,3
-264,112,Meals,Evening,Friday,100,5
-265,104,Sandwich,Morning,Wednesday,50,4
-266,138,Coffee,Morning,Tuesday,20,5
-267,147,Pizza,Lunch,Wednesday,120,3
-268,130,Sandwich,Morning,Thursday,50,5
-269,144,Fried Rice,Lunch,Monday,120,3
-270,120,Burger,Evening,Tuesday,80,5
-271,149,Pizza,Evening,Thursday,120,4
-272,109,Fried Rice,Lunch,Thursday,120,5
-273,148,Coffee,Lunch,Wednesday,20,4
-274,138,Burger,Morning,Tuesday,80,4
-275,106,Tea,Morning,Tuesday,15,4
-276,126,Fried Rice,Lunch,Tuesday,120,5
-277,146,Tea,Lunch,Wednesday,15,3
-278,150,Dosa,Morning,Monday,40,3
-279,131,Tea,Morning,Thursday,15,3
-280,102,Fried Rice,Evening,Friday,120,5
-281,122,Fried Rice,Morning,Monday,120,5
-282,106,Noodles,Lunch,Tuesday,90,3
-283,133,Meals,Lunch,Monday,100,4
-284,146,Coffee,Lunch,Wednesday,20,4
-285,126,Noodles,Evening,Monday,90,5
-286,126,Meals,Lunch,Thursday,100,3
-287,115,Meals,Morning,Tuesday,100,4
-288,125,Coffee,Evening,Thursday,20,3
-289,146,Fried Rice,Lunch,Monday,120,5
-290,150,Fried Rice,Evening,Wednesday,120,4
-291,134,Meals,Morning,Thursday,100,4
-292,114,Fried Rice,Morning,Wednesday,120,5
-293,134,Dosa,Evening,Wednesday,40,3
-294,114,Sandwich,Morning,Monday,50,3
-295,114,Burger,Evening,Tuesday,80,3
-296,145,Noodles,Evening,Friday,90,3
-297,119,Idli,Lunch,Tuesday,30,3
-298,150,Meals,Evening,Thursday,100,4
-299,130,Tea,Morning,Wednesday,15,5
-300,150,Meals,Morning,Monday,100,5
-301,112,Meals,Lunch,Thursday,100,4
-302,133,Burger,Evening,Wednesday,80,5
-303,118,Tea,Evening,Wednesday,15,3
-304,115,Dosa,Lunch,Tuesday,40,4
-305,142,Tea,Morning,Thursday,15,4
-306,102,Tea,Lunch,Friday,15,3
-307,113,Tea,Evening,Thursday,15,3
-308,146,Pizza,Morning,Wednesday,120,5
-309,109,Coffee,Morning,Monday,20,5
-310,150,Dosa,Evening,Friday,40,4
-311,130,Dosa,Evening,Thursday,40,4
-312,121,Pizza,Morning,Thursday,120,5
-313,110,Noodles,Lunch,Monday,90,4
-314,118,Coffee,Morning,Wednesday,20,3
-315,144,Coffee,Evening,Wednesday,20,5
-316,109,Burger,Evening,Monday,80,4
-317,126,Idli,Evening,Wednesday,30,5
-318,125,Tea,Lunch,Monday,15,4
-319,106,Pizza,Lunch,Tuesday,120,3
-320,147,Noodles,Morning,Thursday,90,3
-321,103,Pizza,Evening,Tuesday,120,5
-322,108,Meals,Evening,Monday,100,4
-323,120,Fried Rice,Morning,Wednesday,120,5
-324,130,Fried Rice,Lunch,Monday,120,4
-325,117,Fried Rice,Morning,Wednesday,120,3
-326,125,Meals,Lunch,Friday,100,5
-327,149,Burger,Lunch,Thursday,80,5
-328,131,Idli,Lunch,Thursday,30,4
-329,121,Burger,Morning,Thursday,80,3
-330,131,Noodles,Evening,Monday,90,5
-331,113,Burger,Morning,Tuesday,80,3
-332,114,Idli,Lunch,Monday,30,5
-333,142,Tea,Lunch,Thursday,15,5
-334,136,Tea,Morning,Tuesday,15,4
-335,116,Idli,Evening,Tuesday,30,5
-336,121,Idli,Evening,Wednesday,30,3
-337,143,Coffee,Morning,Friday,20,3
-338,121,Tea,Lunch,Monday,15,5
-339,104,Tea,Morning,Monday,15,4
-340,111,Sandwich,Evening,Thursday,50,5
-341,103,Coffee,Morning,Monday,20,4
-342,128,Coffee,Morning,Tuesday,20,4
-343,112,Fried Rice,Evening,Tuesday,120,3
-344,133,Noodles,Morning,Friday,90,4
-345,141,Idli,Morning,Tuesday,30,5
-346,104,Idli,Lunch,Tuesday,30,3
-347,102,Idli,Lunch,Wednesday,30,5
-348,114,Sandwich,Morning,Friday,50,5
-349,138,Noodles,Evening,Tuesday,90,5
-350,106,Sandwich,Morning,Friday,50,5
-351,121,Burger,Evening,Tuesday,80,3
-352,111,Dosa,Evening,Monday,40,3
-353,136,Burger,Morning,Friday,80,5
-354,125,Dosa,Morning,Wednesday,40,4
-355,112,Sandwich,Evening,Friday,50,4
-356,110,Fried Rice,Morning,Tuesday,120,5
-357,132,Tea,Evening,Thursday,15,5
-358,114,Burger,Lunch,Friday,80,3
-359,119,Sandwich,Lunch,Wednesday,50,4
-360,108,Tea,Morning,Tuesday,15,5
-361,132,Fried Rice,Evening,Friday,120,3
-362,136,Idli,Lunch,Monday,30,3
-363,146,Coffee,Morning,Thursday,20,4
-364,147,Fried Rice,Evening,Friday,120,5
-365,133,Fried Rice,Morning,Thursday,120,3
-366,147,Burger,Lunch,Wednesday,80,3
-367,130,Dosa,Lunch,Thursday,40,3
-368,130,Burger,Lunch,Wednesday,80,3
-369,142,Noodles,Evening,Monday,90,4
-370,105,Burger,Lunch,Tuesday,80,4
-371,121,Burger,Lunch,Wednesday,80,4
-372,150,Idli,Morning,Friday,30,3
-373,132,Burger,Lunch,Friday,80,3
-374,119,Sandwich,Evening,Tuesday,50,4
-375,101,Dosa,Evening,Friday,40,5
-376,116,Dosa,Lunch,Friday,40,3
-377,107,Pizza,Evening,Thursday,120,3
-378,124,Meals,Morning,Tuesday,100,5
-379,136,Pizza,Lunch,Thursday,120,5
-380,109,Burger,Lunch,Thursday,80,3
-381,118,Noodles,Morning,Friday,90,3
-382,118,Dosa,Morning,Friday,40,4
-383,136,Coffee,Lunch,Wednesday,20,5
-384,118,Fried Rice,Evening,Thursday,120,4
-385,113,Idli,Evening,Monday,30,3
-386,147,Meals,Evening,Wednesday,100,3
-387,117,Fried Rice,Lunch,Tuesday,120,3
-388,147,Sandwich,Lunch,Thursday,50,3
-389,125,Coffee,Lunch,Thursday,20,3
-390,140,Fried Rice,Morning,Monday,120,4
-391,146,Coffee,Evening,Monday,20,4
-392,146,Meals,Morning,Thursday,100,5
-393,142,Pizza,Evening,Tuesday,120,5
-394,113,Dosa,Evening,Friday,40,3
-395,103,Pizza,Evening,Wednesday,120,3
-396,115,Sandwich,Lunch,Monday,50,4
-397,142,Pizza,Morning,Monday,120,4
-398,114,Fried Rice,Lunch,Thursday,120,4
-399,102,Tea,Lunch,Friday,15,3
-400,119,Fried Rice,Evening,Monday,120,4
-401,119,Idli,Morning,Monday,30,5
-402,142,Sandwich,Evening,Wednesday,50,3
-403,126,Dosa,Evening,Friday,40,4
-404,109,Meals,Evening,Thursday,100,4
-405,117,Tea,Lunch,Thursday,15,4
-406,118,Pizza,Evening,Tuesday,120,5
-407,122,Meals,Morning,Thursday,100,5
-408,122,Fried Rice,Evening,Tuesday,120,5
-409,150,Pizza,Evening,Tuesday,120,5
-410,114,Tea,Evening,Tuesday,15,3
-411,133,Pizza,Lunch,Friday,120,5
-412,104,Idli,Morning,Monday,30,5
-413,149,Meals,Evening,Friday,100,5
-414,145,Fried Rice,Evening,Wednesday,120,4
-415,142,Tea,Morning,Wednesday,15,4
-416,121,Noodles,Lunch,Tuesday,90,4
-417,146,Pizza,Morning,Thursday,120,5
-418,149,Meals,Evening,Thursday,100,5
-419,105,Tea,Lunch,Friday,15,3
-420,141,Coffee,Evening,Monday,20,5
-421,109,Idli,Lunch,Friday,30,5
-422,120,Coffee,Morning,Friday,20,4
-423,101,Idli,Evening,Tuesday,30,4
-424,116,Noodles,Lunch,Tuesday,90,3
-425,141,Meals,Lunch,Tuesday,100,3
-426,126,Coffee,Lunch,Tuesday,20,3
-427,118,Coffee,Evening,Monday,20,4
-428,140,Burger,Evening,Monday,80,5
-429,127,Coffee,Morning,Thursday,20,3
-430,105,Burger,Lunch,Friday,80,5
-431,129,Burger,Evening,Wednesday,80,3
-432,126,Sandwich,Morning,Wednesday,50,4
-433,137,Noodles,Evening,Tuesday,90,4
-434,126,Pizza,Morning,Friday,120,3
-435,150,Burger,Evening,Monday,80,3
-436,148,Idli,Evening,Friday,30,4
-437,127,Tea,Evening,Monday,15,4
-438,129,Burger,Morning,Wednesday,80,4
-439,123,Coffee,Evening,Monday,20,4
-440,148,Coffee,Evening,Monday,20,5
-441,118,Coffee,Lunch,Wednesday,20,4
-442,139,Sandwich,Evening,Tuesday,50,3
-443,134,Noodles,Evening,Monday,90,5
-444,139,Dosa,Morning,Tuesday,40,3
-445,142,Pizza,Evening,Thursday,120,4
-446,124,Fried Rice,Morning,Tuesday,120,4
-447,130,Pizza,Evening,Friday,120,4
-448,146,Sandwich,Morning,Tuesday,50,5
-449,110,Sandwich,Lunch,Monday,50,5
-450,144,Fried Rice,Lunch,Wednesday,120,3
-451,116,Noodles,Lunch,Thursday,90,4
-452,106,Pizza,Morning,Wednesday,120,5
-453,147,Sandwich,Lunch,Tuesday,50,3
-454,108,Pizza,Lunch,Friday,120,5
-455,123,Burger,Lunch,Wednesday,80,5
-456,126,Fried Rice,Lunch,Wednesday,120,4
-457,131,Tea,Lunch,Thursday,15,3
-458,123,Dosa,Morning,Thursday,40,5
-459,119,Noodles,Lunch,Wednesday,90,3
-460,135,Coffee,Morning,Friday,20,3
-461,150,Noodles,Lunch,Friday,90,3
-462,149,Idli,Evening,Tuesday,30,4
-463,101,Noodles,Lunch,Monday,90,5
-464,102,Sandwich,Morning,Tuesday,50,5
-465,144,Pizza,Evening,Friday,120,5
-466,144,Fried Rice,Morning,Monday,120,5
-467,132,Fried Rice,Evening,Monday,120,3
-468,126,Coffee,Morning,Wednesday,20,5
-469,139,Fried Rice,Evening,Wednesday,120,4
-470,116,Sandwich,Lunch,Tuesday,50,4
-471,117,Fried Rice,Lunch,Monday,120,5
-472,137,Dosa,Lunch,Thursday,40,4
-473,102,Fried Rice,Morning,Friday,120,5
-474,121,Dosa,Evening,Wednesday,40,3
-475,106,Pizza,Morning,Monday,120,5
-476,148,Fried Rice,Evening,Tuesday,120,3
-477,146,Pizza,Morning,Thursday,120,5
-478,102,Meals,Lunch,Friday,100,4
-479,111,Burger,Lunch,Friday,80,4
-480,111,Noodles,Morning,Tuesday,90,5
-481,124,Burger,Morning,Friday,80,4
-482,139,Sandwich,Morning,Monday,50,3
-483,150,Coffee,Lunch,Wednesday,20,5
-484,117,Tea,Morning,Monday,15,3
-485,125,Pizza,Morning,Friday,120,5
-486,127,Dosa,Morning,Wednesday,40,5
-487,108,Meals,Lunch,Tuesday,100,3
-488,101,Coffee,Lunch,Friday,20,3
-489,112,Burger,Morning,Tuesday,80,5
-490,139,Idli,Evening,Monday,30,5
-491,119,Pizza,Morning,Thursday,120,4
-492,133,Tea,Morning,Friday,15,4
-493,119,Coffee,Morning,Monday,20,5
-494,110,Meals,Evening,Thursday,100,5
-495,118,Pizza,Lunch,Friday,120,3
-496,131,Fried Rice,Morning,Friday,120,4
-497,110,Dosa,Morning,Monday,40,5
-498,133,Idli,Lunch,Tuesday,30,3
-499,125,Noodles,Morning,Monday,90,3
-500,145,Coffee,Evening,Friday,20,5
+1.0,149,Dosa,Morning,Tuesday,40,5
+2.0,148,Burger,Evening,Friday,80,4
+3.0,103,Pizza,Morning,Monday,120,5
+4.0,142,Coffee,Evening,Monday,20,5
+5.0,149,Coffee,Evening,Wednesday,20,4
+6.0,142,Burger,Morning,Monday,80,4
+7.0,139,Burger,Morning,Thursday,80,5
+8.0,127,Sandwich,Evening,Wednesday,50,4
+9.0,108,Pizza,Lunch,Thursday,120,3
+10.0,138,Meals,Evening,Friday,100,5
+11.0,143,Meals,Evening,Tuesday,100,4
+12.0,147,Noodles,Evening,Monday,90,4
+13.0,145,Idli,Evening,Thursday,30,5
+14.0,134,Sandwich,Evening,Wednesday,50,3
+15.0,112,Idli,Morning,Tuesday,30,4
+16.0,138,Idli,Evening,Wednesday,30,5
+17.0,116,Dosa,Lunch,Wednesday,40,3
+18.0,147,Noodles,Morning,Friday,90,5
+19.0,122,Pizza,Lunch,Friday,120,3
+20.0,122,Fried Rice,Evening,Friday,120,4
+21.0,132,Idli,Morning,Thursday,30,5
+22.0,140,Meals,Morning,Thursday,100,5
+23.0,103,Pizza,Evening,Wednesday,120,5
+24.0,116,Coffee,Lunch,Wednesday,20,5
+25.0,137,Fried Rice,Morning,Tuesday,120,3
+26.0,143,Burger,Lunch,Monday,80,4
+27.0,131,Burger,Morning,Friday,80,5
+28.0,123,Dosa,Morning,Monday,40,3
+29.0,109,Coffee,Morning,Wednesday,20,4
+30.0,141,Idli,Lunch,Monday,30,3
+31.0,102,Dosa,Lunch,Tuesday,40,3
+32.0,147,Noodles,Morning,Thursday,90,3
+33.0,138,Coffee,Lunch,Monday,20,4
+34.0,137,Sandwich,Evening,Friday,50,4
+35.0,117,Tea,Evening,Friday,15,3
+36.0,120,Noodles,Lunch,Monday,90,3
+37.0,147,Meals,Lunch,Thursday,100,5
+38.0,133,Fried Rice,Morning,Wednesday,120,5
+39.0,101,Idli,Lunch,Thursday,30,4
+40.0,127,Sandwich,Morning,Friday,50,4
+41.0,111,Burger,Evening,Monday,80,3
+42.0,150,Dosa,Morning,Thursday,40,5
+43.0,127,Tea,Evening,Thursday,15,3
+44.0,111,Pizza,Lunch,Thursday,120,4
+45.0,111,Sandwich,Evening,Monday,50,5
+46.0,136,Noodles,Morning,Monday,90,5
+47.0,112,Sandwich,Morning,Thursday,50,3
+48.0,130,Pizza,Lunch,Friday,120,4
+49.0,103,Burger,Morning,Monday,80,3
+50.0,117,Coffee,Lunch,Monday,20,4
+51.0,144,Idli,Lunch,Wednesday,30,5
+52.0,148,Meals,Morning,Tuesday,100,3
+53.0,133,Pizza,Evening,Tuesday,120,3
+54.0,116,Tea,Evening,Tuesday,15,5
+55.0,113,Fried Rice,Evening,Thursday,120,4
+56.0,109,Idli,Evening,Monday,30,5
+57.0,148,Tea,Lunch,Thursday,15,3
+58.0,146,Fried Rice,Morning,Wednesday,120,5
+59.0,137,Dosa,Evening,Monday,40,4
+60.0,132,Noodles,Morning,Friday,90,5
+61.0,137,Noodles,Lunch,Thursday,90,5
+62.0,142,Meals,Morning,Thursday,100,3
+63.0,144,Sandwich,Evening,Friday,50,3
+64.0,124,Burger,Lunch,Thursday,80,3
+65.0,135,Fried Rice,Morning,Tuesday,120,4
+66.0,124,Idli,Morning,Tuesday,30,5
+67.0,143,Sandwich,Lunch,Friday,50,4
+68.0,139,Meals,Evening,Tuesday,100,5
+69.0,139,Noodles,Morning,Wednesday,90,3
+70.0,114,Noodles,Evening,Friday,90,3
+71.0,127,Pizza,Morning,Thursday,120,3
+72.0,143,Coffee,Morning,Thursday,20,4
+73.0,120,Dosa,Evening,Thursday,40,4
+74.0,110,Noodles,Morning,Thursday,90,4
+75.0,140,Pizza,Morning,Friday,120,4
+76.0,121,Meals,Evening,Friday,100,3
+77.0,117,Dosa,Evening,Monday,40,5
+78.0,133,Burger,Morning,Tuesday,80,5
+79.0,144,Dosa,Morning,Monday,40,3
+80.0,126,Idli,Lunch,Friday,30,3
+81.0,101,Meals,Evening,Friday,100,4
+82.0,133,Coffee,Morning,Friday,20,5
+83.0,105,Burger,Morning,Tuesday,80,4
+84.0,109,Coffee,Evening,Thursday,20,3
+85.0,150,Fried Rice,Morning,Thursday,120,5
+86.0,150,Burger,Evening,Monday,80,4
+87.0,130,Dosa,Evening,Thursday,40,3
+88.0,118,Dosa,Lunch,Thursday,40,3
+89.0,129,Burger,Lunch,Tuesday,80,4
+90.0,131,Dosa,Evening,Monday,40,4
+91.0,140,Tea,Evening,Monday,15,5
+92.0,106,Fried Rice,Lunch,Monday,120,5
+93.0,146,Pizza,Morning,Wednesday,120,3
+94.0,135,Fried Rice,Evening,Friday,120,3
+95.0,129,Fried Rice,Lunch,Wednesday,120,3
+96.0,118,Meals,Morning,Wednesday,100,4
+97.0,129,Noodles,Evening,Friday,90,3
+98.0,149,Coffee,Lunch,Tuesday,20,3
+99.0,129,Sandwich,Evening,Friday,50,4
+100.0,124,Meals,Evening,Monday,100,4
+101.0,123,Burger,Morning,Wednesday,80,4
+102.0,114,Noodles,Evening,Tuesday,90,4
+103.0,134,Noodles,Morning,Friday,90,4
+104.0,125,Noodles,Evening,Friday,90,5
+105.0,102,Coffee,Morning,Friday,20,4
+106.0,125,Fried Rice,Evening,Monday,120,5
+107.0,118,Sandwich,Lunch,Thursday,50,5
+108.0,113,Idli,Lunch,Tuesday,30,5
+109.0,149,Tea,Evening,Tuesday,15,4
+110.0,150,Tea,Lunch,Wednesday,15,5
+111.0,103,Pizza,Lunch,Thursday,120,3
+112.0,137,Idli,Morning,Friday,30,3
+113.0,148,Dosa,Lunch,Tuesday,40,3
+114.0,132,Sandwich,Morning,Tuesday,50,5
+115.0,103,Sandwich,Evening,Monday,50,5
+116.0,116,Coffee,Evening,Tuesday,20,4
+117.0,133,Pizza,Lunch,Monday,120,5
+118.0,143,Coffee,Lunch,Tuesday,20,3
+119.0,139,Tea,Evening,Thursday,15,4
+120.0,137,Idli,Evening,Tuesday,30,5
+121.0,115,Burger,Evening,Tuesday,80,5
+122.0,121,Burger,Evening,Tuesday,80,4
+123.0,142,Pizza,Evening,Friday,120,3
+124.0,148,Tea,Lunch,Thursday,15,5
+125.0,128,Idli,Lunch,Tuesday,30,3
+126.0,143,Sandwich,Morning,Friday,50,3
+127.0,125,Tea,Morning,Monday,15,5
+128.0,112,Sandwich,Lunch,Monday,50,3
+129.0,138,Idli,Morning,Monday,30,4
+130.0,101,Dosa,Evening,Friday,40,3
+131.0,125,Dosa,Evening,Friday,40,5
+132.0,133,Coffee,Lunch,Monday,20,5
+133.0,134,Sandwich,Morning,Wednesday,50,4
+134.0,114,Tea,Lunch,Monday,15,4
+135.0,131,Fried Rice,Lunch,Wednesday,120,3
+136.0,149,Coffee,Evening,Monday,20,4
+137.0,140,Noodles,Evening,Monday,90,5
+138.0,119,Pizza,Lunch,Thursday,120,4
+139.0,140,Tea,Morning,Wednesday,15,4
+140.0,138,Noodles,Evening,Tuesday,90,3
+141.0,123,Idli,Lunch,Friday,30,3
+142.0,143,Fried Rice,Evening,Wednesday,120,5
+143.0,141,Burger,Lunch,Wednesday,80,4
+144.0,116,Fried Rice,Morning,Wednesday,120,4
+145.0,133,Meals,Evening,Wednesday,100,5
+146.0,118,Sandwich,Morning,Monday,50,5
+147.0,146,Fried Rice,Evening,Monday,120,3
+148.0,139,Meals,Evening,Wednesday,100,4
+149.0,106,Noodles,Morning,Friday,90,3
+150.0,118,Dosa,Evening,Friday,40,5
+151.0,117,Tea,Evening,Thursday,15,5
+152.0,124,Burger,Morning,Tuesday,80,3
+153.0,144,Sandwich,Lunch,Thursday,50,5
+154.0,121,Coffee,Lunch,Wednesday,20,4
+155.0,103,Tea,Morning,Monday,15,3
+156.0,117,Meals,Morning,Tuesday,100,3
+157.0,143,Coffee,Morning,Tuesday,20,5
+158.0,106,Noodles,Morning,Thursday,90,3
+159.0,102,Noodles,Lunch,Wednesday,90,5
+160.0,120,Idli,Morning,Tuesday,30,3
+161.0,145,Meals,Morning,Thursday,100,4
+162.0,146,Idli,Morning,Thursday,30,4
+163.0,130,Noodles,Morning,Wednesday,90,5
+164.0,101,Fried Rice,Morning,Tuesday,120,5
+165.0,113,Sandwich,Evening,Thursday,50,3
+166.0,106,Meals,Morning,Tuesday,100,3
+167.0,102,Coffee,Evening,Friday,20,4
+168.0,102,Idli,Lunch,Monday,30,3
+169.0,105,Coffee,Morning,Thursday,20,5
+170.0,102,Pizza,Morning,Wednesday,120,5
+171.0,126,Burger,Lunch,Monday,80,3
+172.0,121,Noodles,Lunch,Friday,90,4
+173.0,103,Noodles,Morning,Thursday,90,3
+174.0,144,Meals,Evening,Wednesday,100,4
+175.0,125,Fried Rice,Lunch,Friday,120,3
+176.0,132,Sandwich,Morning,Monday,50,5
+177.0,109,Sandwich,Morning,Friday,50,3
+178.0,122,Noodles,Evening,Wednesday,90,3
+179.0,116,Dosa,Lunch,Thursday,40,3
+180.0,107,Idli,Morning,Friday,30,5
+181.0,126,Idli,Lunch,Wednesday,30,5
+182.0,119,Sandwich,Lunch,Monday,50,3
+183.0,113,Pizza,Evening,Wednesday,120,5
+184.0,135,Fried Rice,Lunch,Wednesday,120,5
+185.0,105,Noodles,Morning,Monday,90,4
+186.0,127,Fried Rice,Morning,Monday,120,5
+187.0,136,Noodles,Lunch,Tuesday,90,5
+188.0,104,Tea,Evening,Wednesday,15,3
+189.0,112,Meals,Evening,Monday,100,5
+190.0,118,Dosa,Lunch,Wednesday,40,3
+191.0,146,Sandwich,Lunch,Wednesday,50,3
+192.0,124,Pizza,Lunch,Monday,120,5
+193.0,106,Idli,Morning,Monday,30,5
+194.0,125,Dosa,Morning,Wednesday,40,5
+195.0,113,Meals,Evening,Wednesday,100,3
+196.0,131,Fried Rice,Evening,Wednesday,120,4
+197.0,150,Idli,Lunch,Friday,30,4
+198.0,108,Pizza,Lunch,Thursday,120,5
+199.0,118,Sandwich,Morning,Tuesday,50,5
+200.0,133,Tea,Lunch,Monday,15,4
+201.0,127,Burger,Morning,Thursday,80,3
+202.0,131,Idli,Lunch,Tuesday,30,3
+203.0,124,Sandwich,Lunch,Friday,50,5
+204.0,116,Pizza,Lunch,Friday,120,4
+205.0,102,Pizza,Evening,Tuesday,120,5
+206.0,113,Fried Rice,Lunch,Monday,120,5
+207.0,117,Fried Rice,Lunch,Friday,120,5
+208.0,133,Idli,Evening,Wednesday,30,4
+209.0,115,Burger,Lunch,Tuesday,80,4
+210.0,125,Dosa,Evening,Thursday,40,5
+211.0,114,Sandwich,Evening,Wednesday,50,3
+212.0,139,Pizza,Lunch,Tuesday,120,5
+213.0,121,Pizza,Lunch,Tuesday,120,3
+214.0,105,Fried Rice,Evening,Thursday,120,3
+215.0,127,Noodles,Evening,Wednesday,90,3
+216.0,115,Tea,Lunch,Tuesday,15,4
+217.0,150,Coffee,Lunch,Tuesday,20,4
+218.0,112,Sandwich,Lunch,Monday,50,5
+219.0,128,Dosa,Lunch,Thursday,40,3
+220.0,128,Tea,Evening,Thursday,15,5
+221.0,116,Meals,Morning,Wednesday,100,5
+222.0,136,Pizza,Morning,Friday,120,3
+223.0,141,Idli,Evening,Tuesday,30,5
+224.0,103,Idli,Lunch,Wednesday,30,3
+225.0,127,Burger,Morning,Wednesday,80,4
+226.0,108,Coffee,Evening,Monday,20,5
+227.0,135,Burger,Lunch,Tuesday,80,3
+228.0,112,Tea,Lunch,Thursday,15,4
+229.0,109,Fried Rice,Evening,Monday,120,3
+230.0,127,Meals,Lunch,Monday,100,3
+231.0,118,Idli,Lunch,Friday,30,3
+232.0,138,Fried Rice,Lunch,Thursday,120,4
+233.0,105,Sandwich,Lunch,Wednesday,50,5
+234.0,147,Burger,Morning,Thursday,80,5
+235.0,148,Idli,Lunch,Thursday,30,3
+236.0,150,Dosa,Morning,Wednesday,40,3
+237.0,101,Tea,Morning,Friday,15,4
+238.0,132,Fried Rice,Evening,Friday,120,5
+239.0,129,Dosa,Morning,Wednesday,40,4
+240.0,145,Idli,Lunch,Tuesday,30,4
+241.0,144,Sandwich,Evening,Friday,50,5
+242.0,118,Burger,Lunch,Wednesday,80,5
+243.0,110,Coffee,Morning,Tuesday,20,3
+244.0,132,Dosa,Morning,Tuesday,40,4
+245.0,136,Burger,Evening,Tuesday,80,5
+246.0,129,Idli,Evening,Thursday,30,5
+247.0,118,Tea,Morning,Thursday,15,4
+248.0,115,Idli,Morning,Monday,30,3
+249.0,118,Noodles,Lunch,Thursday,90,4
+250.0,131,Burger,Evening,Tuesday,80,5
+251.0,113,Burger,Lunch,Thursday,80,4
+252.0,121,Noodles,Lunch,Thursday,90,3
+253.0,122,Coffee,Morning,Tuesday,20,4
+254.0,145,Fried Rice,Morning,Wednesday,120,4
+255.0,125,Dosa,Morning,Thursday,40,5
+256.0,108,Fried Rice,Evening,Monday,120,5
+257.0,106,Noodles,Lunch,Monday,90,4
+258.0,135,Sandwich,Morning,Monday,50,4
+259.0,126,Meals,Morning,Thursday,100,5
+260.0,141,Pizza,Morning,Wednesday,120,5
+261.0,109,Pizza,Lunch,Friday,120,5
+262.0,125,Fried Rice,Lunch,Monday,120,4
+263.0,121,Tea,Morning,Monday,15,3
+264.0,112,Meals,Evening,Friday,100,5
+265.0,104,Sandwich,Morning,Wednesday,50,4
+266.0,138,Coffee,Morning,Tuesday,20,5
+267.0,147,Pizza,Lunch,Wednesday,120,3
+268.0,130,Sandwich,Morning,Thursday,50,5
+269.0,144,Fried Rice,Lunch,Monday,120,3
+270.0,120,Burger,Evening,Tuesday,80,5
+271.0,149,Pizza,Evening,Thursday,120,4
+272.0,109,Fried Rice,Lunch,Thursday,120,5
+273.0,148,Coffee,Lunch,Wednesday,20,4
+274.0,138,Burger,Morning,Tuesday,80,4
+275.0,106,Tea,Morning,Tuesday,15,4
+276.0,126,Fried Rice,Lunch,Tuesday,120,5
+277.0,146,Tea,Lunch,Wednesday,15,3
+278.0,150,Dosa,Morning,Monday,40,3
+279.0,131,Tea,Morning,Thursday,15,3
+280.0,102,Fried Rice,Evening,Friday,120,5
+281.0,122,Fried Rice,Morning,Monday,120,5
+282.0,106,Noodles,Lunch,Tuesday,90,3
+283.0,133,Meals,Lunch,Monday,100,4
+284.0,146,Coffee,Lunch,Wednesday,20,4
+285.0,126,Noodles,Evening,Monday,90,5
+286.0,126,Meals,Lunch,Thursday,100,3
+287.0,115,Meals,Morning,Tuesday,100,4
+288.0,125,Coffee,Evening,Thursday,20,3
+289.0,146,Fried Rice,Lunch,Monday,120,5
+290.0,150,Fried Rice,Evening,Wednesday,120,4
+291.0,134,Meals,Morning,Thursday,100,4
+292.0,114,Fried Rice,Morning,Wednesday,120,5
+293.0,134,Dosa,Evening,Wednesday,40,3
+294.0,114,Sandwich,Morning,Monday,50,3
+295.0,114,Burger,Evening,Tuesday,80,3
+296.0,145,Noodles,Evening,Friday,90,3
+297.0,119,Idli,Lunch,Tuesday,30,3
+298.0,150,Meals,Evening,Thursday,100,4
+299.0,130,Tea,Morning,Wednesday,15,5
+300.0,150,Meals,Morning,Monday,100,5
+301.0,112,Meals,Lunch,Thursday,100,4
+302.0,133,Burger,Evening,Wednesday,80,5
+303.0,118,Tea,Evening,Wednesday,15,3
+304.0,115,Dosa,Lunch,Tuesday,40,4
+305.0,142,Tea,Morning,Thursday,15,4
+306.0,102,Tea,Lunch,Friday,15,3
+307.0,113,Tea,Evening,Thursday,15,3
+308.0,146,Pizza,Morning,Wednesday,120,5
+309.0,109,Coffee,Morning,Monday,20,5
+310.0,150,Dosa,Evening,Friday,40,4
+311.0,130,Dosa,Evening,Thursday,40,4
+312.0,121,Pizza,Morning,Thursday,120,5
+313.0,110,Noodles,Lunch,Monday,90,4
+314.0,118,Coffee,Morning,Wednesday,20,3
+315.0,144,Coffee,Evening,Wednesday,20,5
+316.0,109,Burger,Evening,Monday,80,4
+317.0,126,Idli,Evening,Wednesday,30,5
+318.0,125,Tea,Lunch,Monday,15,4
+319.0,106,Pizza,Lunch,Tuesday,120,3
+320.0,147,Noodles,Morning,Thursday,90,3
+321.0,103,Pizza,Evening,Tuesday,120,5
+322.0,108,Meals,Evening,Monday,100,4
+323.0,120,Fried Rice,Morning,Wednesday,120,5
+324.0,130,Fried Rice,Lunch,Monday,120,4
+325.0,117,Fried Rice,Morning,Wednesday,120,3
+326.0,125,Meals,Lunch,Friday,100,5
+327.0,149,Burger,Lunch,Thursday,80,5
+328.0,131,Idli,Lunch,Thursday,30,4
+329.0,121,Burger,Morning,Thursday,80,3
+330.0,131,Noodles,Evening,Monday,90,5
+331.0,113,Burger,Morning,Tuesday,80,3
+332.0,114,Idli,Lunch,Monday,30,5
+333.0,142,Tea,Lunch,Thursday,15,5
+334.0,136,Tea,Morning,Tuesday,15,4
+335.0,116,Idli,Evening,Tuesday,30,5
+336.0,121,Idli,Evening,Wednesday,30,3
+337.0,143,Coffee,Morning,Friday,20,3
+338.0,121,Tea,Lunch,Monday,15,5
+339.0,104,Tea,Morning,Monday,15,4
+340.0,111,Sandwich,Evening,Thursday,50,5
+341.0,103,Coffee,Morning,Monday,20,4
+342.0,128,Coffee,Morning,Tuesday,20,4
+343.0,112,Fried Rice,Evening,Tuesday,120,3
+344.0,133,Noodles,Morning,Friday,90,4
+345.0,141,Idli,Morning,Tuesday,30,5
+346.0,104,Idli,Lunch,Tuesday,30,3
+347.0,102,Idli,Lunch,Wednesday,30,5
+348.0,114,Sandwich,Morning,Friday,50,5
+349.0,138,Noodles,Evening,Tuesday,90,5
+350.0,106,Sandwich,Morning,Friday,50,5
+351.0,121,Burger,Evening,Tuesday,80,3
+352.0,111,Dosa,Evening,Monday,40,3
+353.0,136,Burger,Morning,Friday,80,5
+354.0,125,Dosa,Morning,Wednesday,40,4
+355.0,112,Sandwich,Evening,Friday,50,4
+356.0,110,Fried Rice,Morning,Tuesday,120,5
+357.0,132,Tea,Evening,Thursday,15,5
+358.0,114,Burger,Lunch,Friday,80,3
+359.0,119,Sandwich,Lunch,Wednesday,50,4
+360.0,108,Tea,Morning,Tuesday,15,5
+361.0,132,Fried Rice,Evening,Friday,120,3
+362.0,136,Idli,Lunch,Monday,30,3
+363.0,146,Coffee,Morning,Thursday,20,4
+364.0,147,Fried Rice,Evening,Friday,120,5
+365.0,133,Fried Rice,Morning,Thursday,120,3
+366.0,147,Burger,Lunch,Wednesday,80,3
+367.0,130,Dosa,Lunch,Thursday,40,3
+368.0,130,Burger,Lunch,Wednesday,80,3
+369.0,142,Noodles,Evening,Monday,90,4
+370.0,105,Burger,Lunch,Tuesday,80,4
+371.0,121,Burger,Lunch,Wednesday,80,4
+372.0,150,Idli,Morning,Friday,30,3
+373.0,132,Burger,Lunch,Friday,80,3
+374.0,119,Sandwich,Evening,Tuesday,50,4
+375.0,101,Dosa,Evening,Friday,40,5
+376.0,116,Dosa,Lunch,Friday,40,3
+377.0,107,Pizza,Evening,Thursday,120,3
+378.0,124,Meals,Morning,Tuesday,100,5
+379.0,136,Pizza,Lunch,Thursday,120,5
+380.0,109,Burger,Lunch,Thursday,80,3
+381.0,118,Noodles,Morning,Friday,90,3
+382.0,118,Dosa,Morning,Friday,40,4
+383.0,136,Coffee,Lunch,Wednesday,20,5
+384.0,118,Fried Rice,Evening,Thursday,120,4
+385.0,113,Idli,Evening,Monday,30,3
+386.0,147,Meals,Evening,Wednesday,100,3
+387.0,117,Fried Rice,Lunch,Tuesday,120,3
+388.0,147,Sandwich,Lunch,Thursday,50,3
+389.0,125,Coffee,Lunch,Thursday,20,3
+390.0,140,Fried Rice,Morning,Monday,120,4
+391.0,146,Coffee,Evening,Monday,20,4
+392.0,146,Meals,Morning,Thursday,100,5
+393.0,142,Pizza,Evening,Tuesday,120,5
+394.0,113,Dosa,Evening,Friday,40,3
+395.0,103,Pizza,Evening,Wednesday,120,3
+396.0,115,Sandwich,Lunch,Monday,50,4
+397.0,142,Pizza,Morning,Monday,120,4
+398.0,114,Fried Rice,Lunch,Thursday,120,4
+399.0,102,Tea,Lunch,Friday,15,3
+400.0,119,Fried Rice,Evening,Monday,120,4
+401.0,119,Idli,Morning,Monday,30,5
+402.0,142,Sandwich,Evening,Wednesday,50,3
+403.0,126,Dosa,Evening,Friday,40,4
+404.0,109,Meals,Evening,Thursday,100,4
+405.0,117,Tea,Lunch,Thursday,15,4
+406.0,118,Pizza,Evening,Tuesday,120,5
+407.0,122,Meals,Morning,Thursday,100,5
+408.0,122,Fried Rice,Evening,Tuesday,120,5
+409.0,150,Pizza,Evening,Tuesday,120,5
+410.0,114,Tea,Evening,Tuesday,15,3
+411.0,133,Pizza,Lunch,Friday,120,5
+412.0,104,Idli,Morning,Monday,30,5
+413.0,149,Meals,Evening,Friday,100,5
+414.0,145,Fried Rice,Evening,Wednesday,120,4
+415.0,142,Tea,Morning,Wednesday,15,4
+416.0,121,Noodles,Lunch,Tuesday,90,4
+417.0,146,Pizza,Morning,Thursday,120,5
+418.0,149,Meals,Evening,Thursday,100,5
+419.0,105,Tea,Lunch,Friday,15,3
+420.0,141,Coffee,Evening,Monday,20,5
+421.0,109,Idli,Lunch,Friday,30,5
+422.0,120,Coffee,Morning,Friday,20,4
+423.0,101,Idli,Evening,Tuesday,30,4
+424.0,116,Noodles,Lunch,Tuesday,90,3
+425.0,141,Meals,Lunch,Tuesday,100,3
+426.0,126,Coffee,Lunch,Tuesday,20,3
+427.0,118,Coffee,Evening,Monday,20,4
+428.0,140,Burger,Evening,Monday,80,5
+429.0,127,Coffee,Morning,Thursday,20,3
+430.0,105,Burger,Lunch,Friday,80,5
+431.0,129,Burger,Evening,Wednesday,80,3
+432.0,126,Sandwich,Morning,Wednesday,50,4
+433.0,137,Noodles,Evening,Tuesday,90,4
+434.0,126,Pizza,Morning,Friday,120,3
+435.0,150,Burger,Evening,Monday,80,3
+436.0,148,Idli,Evening,Friday,30,4
+437.0,127,Tea,Evening,Monday,15,4
+438.0,129,Burger,Morning,Wednesday,80,4
+439.0,123,Coffee,Evening,Monday,20,4
+440.0,148,Coffee,Evening,Monday,20,5
+441.0,118,Coffee,Lunch,Wednesday,20,4
+442.0,139,Sandwich,Evening,Tuesday,50,3
+443.0,134,Noodles,Evening,Monday,90,5
+444.0,139,Dosa,Morning,Tuesday,40,3
+445.0,142,Pizza,Evening,Thursday,120,4
+446.0,124,Fried Rice,Morning,Tuesday,120,4
+447.0,130,Pizza,Evening,Friday,120,4
+448.0,146,Sandwich,Morning,Tuesday,50,5
+449.0,110,Sandwich,Lunch,Monday,50,5
+450.0,144,Fried Rice,Lunch,Wednesday,120,3
+451.0,116,Noodles,Lunch,Thursday,90,4
+452.0,106,Pizza,Morning,Wednesday,120,5
+453.0,147,Sandwich,Lunch,Tuesday,50,3
+454.0,108,Pizza,Lunch,Friday,120,5
+455.0,123,Burger,Lunch,Wednesday,80,5
+456.0,126,Fried Rice,Lunch,Wednesday,120,4
+457.0,131,Tea,Lunch,Thursday,15,3
+458.0,123,Dosa,Morning,Thursday,40,5
+459.0,119,Noodles,Lunch,Wednesday,90,3
+460.0,135,Coffee,Morning,Friday,20,3
+461.0,150,Noodles,Lunch,Friday,90,3
+462.0,149,Idli,Evening,Tuesday,30,4
+463.0,101,Noodles,Lunch,Monday,90,5
+464.0,102,Sandwich,Morning,Tuesday,50,5
+465.0,144,Pizza,Evening,Friday,120,5
+466.0,144,Fried Rice,Morning,Monday,120,5
+467.0,132,Fried Rice,Evening,Monday,120,3
+468.0,126,Coffee,Morning,Wednesday,20,5
+469.0,139,Fried Rice,Evening,Wednesday,120,4
+470.0,116,Sandwich,Lunch,Tuesday,50,4
+471.0,117,Fried Rice,Lunch,Monday,120,5
+472.0,137,Dosa,Lunch,Thursday,40,4
+473.0,102,Fried Rice,Morning,Friday,120,5
+474.0,121,Dosa,Evening,Wednesday,40,3
+475.0,106,Pizza,Morning,Monday,120,5
+476.0,148,Fried Rice,Evening,Tuesday,120,3
+477.0,146,Pizza,Morning,Thursday,120,5
+478.0,102,Meals,Lunch,Friday,100,4
+479.0,111,Burger,Lunch,Friday,80,4
+480.0,111,Noodles,Morning,Tuesday,90,5
+481.0,124,Burger,Morning,Friday,80,4
+482.0,139,Sandwich,Morning,Monday,50,3
+483.0,150,Coffee,Lunch,Wednesday,20,5
+484.0,117,Tea,Morning,Monday,15,3
+485.0,125,Pizza,Morning,Friday,120,5
+486.0,127,Dosa,Morning,Wednesday,40,5
+487.0,108,Meals,Lunch,Tuesday,100,3
+488.0,101,Coffee,Lunch,Friday,20,3
+489.0,112,Burger,Morning,Tuesday,80,5
+490.0,139,Idli,Evening,Monday,30,5
+491.0,119,Pizza,Morning,Thursday,120,4
+492.0,133,Tea,Morning,Friday,15,4
+493.0,119,Coffee,Morning,Monday,20,5
+494.0,110,Meals,Evening,Thursday,100,5
+495.0,118,Pizza,Lunch,Friday,120,3
+496.0,131,Fried Rice,Morning,Friday,120,4
+497.0,110,Dosa,Morning,Monday,40,5
+498.0,133,Idli,Lunch,Tuesday,30,3
+499.0,125,Noodles,Morning,Monday,90,3
+500.0,145,Coffee,Evening,Friday,20,5
+,103,Burger,Morning,Monday,100,3
+,101,Burger,Morning,Monday,1,4
