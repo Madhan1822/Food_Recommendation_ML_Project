@@ -1,0 +1,142 @@
+day_of_week,time_slot,food_item,orders
+Friday,Evening,Burger,1
+Friday,Evening,Coffee,2
+Friday,Evening,Dosa,7
+Friday,Evening,Fried Rice,6
+Friday,Evening,Idli,1
+Friday,Evening,Meals,5
+Friday,Evening,Noodles,4
+Friday,Evening,Pizza,3
+Friday,Evening,Sandwich,5
+Friday,Evening,Tea,1
+Friday,Lunch,Burger,4
+Friday,Lunch,Coffee,1
+Friday,Lunch,Dosa,1
+Friday,Lunch,Fried Rice,2
+Friday,Lunch,Idli,5
+Friday,Lunch,Meals,2
+Friday,Lunch,Noodles,2
+Friday,Lunch,Pizza,7
+Friday,Lunch,Sandwich,2
+Friday,Lunch,Tea,3
+Friday,Morning,Burger,3
+Friday,Morning,Coffee,5
+Friday,Morning,Dosa,1
+Friday,Morning,Fried Rice,2
+Friday,Morning,Idli,3
+Friday,Morning,Noodles,6
+Friday,Morning,Pizza,4
+Friday,Morning,Sandwich,5
+Friday,Morning,Tea,2
+Monday,Evening,Burger,5
+Monday,Evening,Coffee,8
+Monday,Evening,Dosa,4
+Monday,Evening,Fried Rice,6
+Monday,Evening,Idli,3
+Monday,Evening,Meals,3
+Monday,Evening,Noodles,6
+Monday,Evening,Sandwich,2
+Monday,Evening,Tea,2
+Monday,Lunch,Burger,2
+Monday,Lunch,Coffee,3
+Monday,Lunch,Fried Rice,7
+Monday,Lunch,Idli,4
+Monday,Lunch,Meals,2
+Monday,Lunch,Noodles,4
+Monday,Lunch,Pizza,2
+Monday,Lunch,Sandwich,5
+Monday,Lunch,Tea,4
+Monday,Morning,Burger,2
+Monday,Morning,Coffee,3
+Monday,Morning,Dosa,4
+Monday,Morning,Fried Rice,4
+Monday,Morning,Idli,5
+Monday,Morning,Meals,1
+Monday,Morning,Noodles,3
+Monday,Morning,Pizza,3
+Monday,Morning,Sandwich,5
+Monday,Morning,Tea,5
+Thursday,Evening,Coffee,2
+Thursday,Evening,Dosa,4
+Thursday,Evening,Fried Rice,3
+Thursday,Evening,Idli,2
+Thursday,Evening,Meals,4
+Thursday,Evening,Pizza,3
+Thursday,Evening,Sandwich,2
+Thursday,Evening,Tea,6
+Thursday,Lunch,Burger,4
+Thursday,Lunch,Coffee,1
+Thursday,Lunch,Dosa,5
+Thursday,Lunch,Fried Rice,3
+Thursday,Lunch,Idli,3
+Thursday,Lunch,Meals,3
+Thursday,Lunch,Noodles,4
+Thursday,Lunch,Pizza,6
+Thursday,Lunch,Sandwich,3
+Thursday,Lunch,Tea,6
+Thursday,Morning,Burger,4
+Thursday,Morning,Coffee,4
+Thursday,Morning,Dosa,3
+Thursday,Morning,Fried Rice,2
+Thursday,Morning,Idli,2
+Thursday,Morning,Meals,7
+Thursday,Morning,Noodles,5
+Thursday,Morning,Pizza,5
+Thursday,Morning,Sandwich,2
+Thursday,Morning,Tea,3
+Tuesday,Evening,Burger,7
+Tuesday,Evening,Coffee,1
+Tuesday,Evening,Fried Rice,3
+Tuesday,Evening,Idli,5
+Tuesday,Evening,Meals,2
+Tuesday,Evening,Noodles,4
+Tuesday,Evening,Pizza,6
+Tuesday,Evening,Sandwich,2
+Tuesday,Evening,Tea,3
+Tuesday,Lunch,Burger,4
+Tuesday,Lunch,Coffee,4
+Tuesday,Lunch,Dosa,3
+Tuesday,Lunch,Fried Rice,2
+Tuesday,Lunch,Idli,7
+Tuesday,Lunch,Meals,2
+Tuesday,Lunch,Noodles,4
+Tuesday,Lunch,Pizza,3
+Tuesday,Lunch,Sandwich,2
+Tuesday,Lunch,Tea,1
+Tuesday,Morning,Burger,6
+Tuesday,Morning,Coffee,5
+Tuesday,Morning,Dosa,3
+Tuesday,Morning,Fried Rice,5
+Tuesday,Morning,Idli,4
+Tuesday,Morning,Meals,5
+Tuesday,Morning,Noodles,1
+Tuesday,Morning,Sandwich,4
+Tuesday,Morning,Tea,3
+Wednesday,Evening,Burger,2
+Wednesday,Evening,Coffee,2
+Wednesday,Evening,Dosa,2
+Wednesday,Evening,Fried Rice,5
+Wednesday,Evening,Idli,4
+Wednesday,Evening,Meals,5
+Wednesday,Evening,Noodles,2
+Wednesday,Evening,Pizza,3
+Wednesday,Evening,Sandwich,4
+Wednesday,Evening,Tea,2
+Wednesday,Lunch,Burger,6
+Wednesday,Lunch,Coffee,7
+Wednesday,Lunch,Dosa,2
+Wednesday,Lunch,Fried Rice,5
+Wednesday,Lunch,Idli,4
+Wednesday,Lunch,Noodles,2
+Wednesday,Lunch,Pizza,1
+Wednesday,Lunch,Sandwich,3
+Wednesday,Lunch,Tea,2
+Wednesday,Morning,Burger,3
+Wednesday,Morning,Coffee,3
+Wednesday,Morning,Dosa,5
+Wednesday,Morning,Fried Rice,7
+Wednesday,Morning,Meals,2
+Wednesday,Morning,Noodles,2
+Wednesday,Morning,Pizza,5
+Wednesday,Morning,Sandwich,3
+Wednesday,Morning,Tea,3

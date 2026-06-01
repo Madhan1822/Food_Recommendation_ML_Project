@@ -1,0 +1,16 @@
+food_item,orders_in_queue,cooks_available,prep_time,wait_time
+Burger,10,2,5,12
+Burger,15,2,5,18
+Burger,5,2,5,7
+Pizza,8,1,10,15
+Pizza,15,1,10,25
+Pizza,20,2,10,20
+Dosa,5,2,4,5
+Dosa,10,2,4,8
+Dosa,15,2,4,10
+Coffee,5,1,2,3
+Coffee,10,1,2,5
+Coffee,15,1,2,7
+Sandwich,5,2,3,4
+Sandwich,10,2,3,6
+Sandwich,15,2,3,8
